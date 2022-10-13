@@ -138,3 +138,4 @@ Recommended software versions:
     tensorflow-gpu  1.13.1
     tensorpack 0.9.4  
 
+# FreiPose
